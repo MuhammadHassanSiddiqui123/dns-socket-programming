@@ -1,7 +1,7 @@
 # DNS Query Resolution using Socket Programming
 
 **Course:** Computer Network
-**Student:** [Muhammad Hassan Siddiqui] — Roll No: 24K-1051
+**Student:** Muhammad Hassan Siddiqui — Roll No: 24K-1051
 **Assignment:** Section (A) — DNS Query Resolution using Socket Programming
 
 ## Overview
